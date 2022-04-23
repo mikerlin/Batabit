@@ -344,6 +344,7 @@ main {
 .plans_container-card {
     display: flex;
     justify-content: center;
+    margin-bottom: 30px;
 }
 
 .plans_title {
