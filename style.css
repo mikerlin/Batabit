@@ -354,7 +354,7 @@ main {
 .plans_container-slider {
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    margin-bottom: 30px;
 }
 
 .plans_container-card .plans_container-target {
