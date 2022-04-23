@@ -1,0 +1,19 @@
+.plans_container-slider {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 90px;
+}
+
+.product_cards-container {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    padding-top: 80px;
+}
+
+.product_detail-cards, .product_detail-cards--2, .product_detail-cards--3, .product_detail-cards--4  {
+    max-width: 350px;
+}
+

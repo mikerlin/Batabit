@@ -1,0 +1,17 @@
+.main_tables-container {
+    display: flex;
+    padding: 0 50px;
+    max-width: 768px;
+    margin: 0 auto;
+}
+
+.plans_container-slider {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 35px;
+}
+
+footer {
+    padding: 60px 130px;
+}
